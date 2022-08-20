@@ -51,6 +51,7 @@ Gamedir30=C:\Program Files (x86)\Arobas Music\Guitar Pro 7\GuitarPro7.exe
 
 
 Gamecover14=new.png
+Gamedir14=D:\Setup\x360ce.exe
 
 Gamecover8=GTAV.png
 Gamedir8=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe
