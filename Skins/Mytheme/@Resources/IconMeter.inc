@@ -537,3 +537,21 @@ OnEnterAction=[!SetVariable Edit 30]
 Group=DropGroup
 Bounds = Icon30
 Disabled=1
+
+[Icon31]
+Meter=Image
+ImageName=#@#App\#Gamecover31#
+LeftMouseUpAction=!Execute [!CommandMeasure Animate "interact(31)"][!CommandMeasure Animate "highlight(0)"][!CommandMeasure Animation "Stop 7"][!CommandMeasure Animation "Execute 7"]
+MouseOverAction=[!CommandMeasure "Animate" "highlight(31)"][!CommandMeasure Animation "Stop 6"][!CommandMeasure Animation "Execute 6"]
+MeterStyle=LayoutIcon
+
+[DragNDropChild31]
+Measure=Plugin
+Plugin=Drag&Drop
+Parent=DragNDropParent
+Action=Path
+DynamicVariables=1
+OnEnterAction=[!SetVariable Edit 31]
+Group=DropGroup
+Bounds = Icon31
+Disabled=1

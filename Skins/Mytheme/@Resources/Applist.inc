@@ -1,5 +1,5 @@
 [Variables]
-TotalGame=30
+TotalGame=31
 
 Gamecover1=Files.png
 Gamedir1=C:\Windows\explorer.exe
@@ -43,65 +43,68 @@ Gamedir27=C:\Users\Acer\AppData\Local\Figma\Figma.exe
 
 Gamecover29=new.png
 
-Gamecover30=Guitar Pro.png
-Gamedir30=C:\Program Files (x86)\Arobas Music\Guitar Pro 7\GuitarPro7.exe
+Gamecover31=Guitar Pro.png
+Gamedir31=C:\Program Files (x86)\Arobas Music\Guitar Pro 7\GuitarPro7.exe
 
 
 
 
 
-Gamecover14=new.png
-Gamedir14=D:\Setup\x360ce.exe
-
-Gamecover8=GTAV.png
-Gamedir8=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe
+Gamecover16=new.png
+Gamedir16=D:\Setup\x360ce.exe
 
 
-Gamecover6=Valorant.png
-Gamedir6=C:\Riot Games\Riot Client\RiotClientServices.exe
 
+Gamecover10=Valorant.png
+Gamedir10=C:\Riot Games\Riot Client\RiotClientServices.exe
 
-Gamecover4=AC3.png
-Gamedir4=D:\GtaV\Assassins Creed III\AC3SP.exe
+Gamecover8=God Of War
+Gamedir8=D:\Games\God of War\GoW.exe
+
+Gamecover6=AC3.png
+Gamedir6=D:\GtaV\Assassins Creed III\AC3SP.exe
+
+Gamecover4=Spiderman.png
+Gamedir4=D:\Games\Spider-man Remastered\Spider-Man.exe
 
 
 Gamecover2=Discord.png
 Gamedir2=C:\Users\Acer\AppData\Local\Discord\Update.exe
 
 
-Gamecover28=Reaper.png
-Gamedir28=C:\Program Files\REAPER (x64)\reaper.exe
+Gamecover30=Reaper.png
+Gamedir30=C:\Program Files\REAPER (x64)\reaper.exe
 
 
-Gamecover26=Ableton LIVE.png
-Gamedir26=C:\ProgramData\Ableton\Live 10 Suite\Program\Ableton Live 10 Suite.exe
+Gamecover28=Ableton LIVE.png
+Gamedir28=C:\ProgramData\Ableton\Live 10 Suite\Program\Ableton Live 10 Suite.exe
 
 
-Gamecover24=new.png
+Gamecover26=new.png
 
 
-Gamecover22=iTunes.png
-Gamedir22=C:\Program Files\WindowsApps\AppleInc.iTunes_12123.5.56009.0_x64__nzyj5cx40ttqa\iTunes.exe
+Gamecover24=iTunes.png
+Gamedir24=C:\Program Files\WindowsApps\AppleInc.iTunes_12123.5.56009.0_x64__nzyj5cx40ttqa\iTunes.exe
 
 
-Gamecover20=Spotify.png
-Gamedir20=C:\Users\Acer\AppData\Roaming\Spotify\Spotify.exe
-
-
-
-
-Gamecover18=Netflix.png
-Gamedir18=C:\Users\Acer\Desktop\Netflix
-
-Gamecover16=Stremio.png
-Gamedir16=C:\Users\Acer\AppData\Local\Programs\LNV\Stremio-4\stremio.exe
+Gamecover22=Spotify.png
+Gamedir22=C:\Users\Acer\AppData\Roaming\Spotify\Spotify.exe
 
 
 
 
-Gamecover12=Epic Games.png
-Gamedir12=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe
+Gamecover20=Netflix.png
+Gamedir20=C:\Users\Acer\Desktop\Netflix
+
+Gamecover18=Stremio.png
+Gamedir18=C:\Users\Acer\AppData\Local\Programs\LNV\Stremio-4\stremio.exe
 
 
-Gamecover10=Steam.png
-Gamedir10=C:\Program Files (x86)\Steam\steam.exe
+
+
+Gamecover14=Epic Games.png
+Gamedir14=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe
+
+
+Gamecover12=Steam.png
+Gamedir12=C:\Program Files (x86)\Steam\steam.exe
